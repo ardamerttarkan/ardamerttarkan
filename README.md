@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arda Mert Tarkan</h1>
+<h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">ardamert.com.tr</h3>
 
 <h3 align="left">Connect with me:</h3>
