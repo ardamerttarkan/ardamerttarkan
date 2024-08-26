@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
-- 👨‍💻You can reach my website from here [ardamert.com.tr](ardamert.com.tr)
+- 👨‍💻You can reach my website from here ardamert.com.tr
 
 - 📫 How to reach me **iletisimardamert@gmail.com**
 
