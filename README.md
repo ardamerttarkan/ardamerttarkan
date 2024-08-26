@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">ardamert.com.tr</h3>
+- 👨‍💻You can reach my website from here [ardamert.com.tr](ardamert.com.tr)
+
+- 📫 How to reach me **iletisimardamert@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
