@@ -137,36 +137,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardamerttarkan&layout=compact&theme=dark&hide_border=true" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=ardamerttarkan&show_icons=true&theme=dark&hide_border=true" 
-        alt="GitHub Stats" 
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img 
-        src="https://streak-stats.demolab.com?user=ardamerttarkan&theme=dark&hide_border=true" 
-        alt="GitHub Streak" 
-      />
-    </td>
-  </tr>
-</table>
-
 <p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=ardamerttarkan&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://streak-stats.demolab.com?user=ardamerttarkan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
