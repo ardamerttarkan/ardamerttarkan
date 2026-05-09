@@ -22,5 +22,5 @@
 <h3 align="left">GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardamerttarkan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardamerttarkan&theme=github_dark&v=2" />
 </p>
