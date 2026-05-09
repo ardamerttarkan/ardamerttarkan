@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arda</h1>
+<h1 align="center">I'm Arda</h1>
 
 <p align="left">
   👨‍💻 You can reach my website from here:
@@ -21,7 +21,7 @@
       <br>LinkedIn
     </td>
     <td align="center" width="80">
-      <a href="https://instagram.com/arda.tarkann" target="_blank">
+      <a href="https://instagram.com/arda.tarkan" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35" alt="Instagram" />
       </a>
       <br>Instagram
@@ -137,19 +137,32 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardamerttarkan&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ardamerttarkan&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardamerttarkan&layout=compact&theme=dark&hide_border=true" 
+        alt="Top Languages" 
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=ardamerttarkan&show_icons=true&theme=dark&hide_border=true" 
+        alt="GitHub Stats" 
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=ardamerttarkan&theme=dark&hide_border=true" 
+        alt="GitHub Streak" 
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img 
