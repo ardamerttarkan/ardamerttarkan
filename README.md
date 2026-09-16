@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ardamert.com.tr">Website</a> •
+  <a href="https://ardamert.site">Website</a> •
   <a href="mailto:iletisimardamert@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/ardamert60">LinkedIn</a> •
   <a href="https://instagram.com/arda.tarkan">Instagram</a>
